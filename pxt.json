@@ -1,0 +1,13 @@
+{
+    "name": "Spass mit Radio",
+    "description": "Ein MakeCode Tutorial für den micro:bit",
+    "dependencies": {
+        "microbit": "*"
+    },
+    "files": [
+        "spass-mit-radio.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0"
+    }
+}
