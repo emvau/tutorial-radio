@@ -3,11 +3,11 @@ Ein Makecode-Projekt
 ## @fullscreen
 Sende eine Nachricht per Funk an andere micro:bits! Füge einen ``||input:wenn Knopf A geklickt||``-Block auf die Arbeitsfläche
 ## 
-Füge in den ``||input:wenn Knopf A geklickt||``-Block einen ''||radio:sende Zahl||`` Block ein.
+Füge in den ``||input:wenn Knopf A geklickt||``-Block einen ``||radio:sende Zahl||`` Block ein.
 Ändere die Zahl auf 1.
 ## 
 Jetzt brauchen wir einen Block, der auf eingehende Nachrichten wartet.
-Füge einen ``||radio:wenn Zahl empfangen receivedNumber||`` Block auf die Arbeitsfläche.
+Füge einen ``||radio:wenn Zahl empfangen empfangeneZahl||`` Block auf die Arbeitsfläche.
 ## 
 Füge in den ||radio:wenn Zahl empfangen|| Block einen ``||basic:zeige Symbol||`` Block ein.
 Wähle ein Herz ❤️ als Symbol.
