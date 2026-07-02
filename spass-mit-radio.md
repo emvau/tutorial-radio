@@ -17,7 +17,7 @@ Füge nach dem ``||basic:zeige Symbol||`` Block einen ``||basic:pausiere (ms)||`
 Danach füge einen ``||basic:lösche Bildschirm||`` Block ein.
 ## 
 Alle micro:bits in der Nähe senden und empfangen auf der gleichen Funkgruppe. 
-Füge am Anfang – in den ``||basic:beim Start||``-Block - einen ||radio:setze Gruppe|| Block ein.
+Füge am Anfang – in den ``||basic:beim Start||``-Block - einen ``||radio:setze Gruppe||`` Block ein.
 Stelle die Gruppe auf 1.
 ## 
 Fertig! 🎉
