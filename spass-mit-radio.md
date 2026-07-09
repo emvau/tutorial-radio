@@ -9,7 +9,7 @@ Füge in den ``||input:wenn Knopf A geklickt||``-Block einen ``||radio:sende Zah
 Jetzt brauchen wir einen Block, der auf eingehende Nachrichten wartet.
 Füge einen ``||radio:wenn Zahl empfangen empfangeneZahl||`` Block auf die Arbeitsfläche.
 ## 
-Füge in den ||radio:wenn Zahl empfangen|| Block einen ``||basic:zeige Symbol||`` Block ein.
+Füge in den ``||radio:wenn Zahl empfangen||`` Block einen ``||basic:zeige Symbol||`` Block ein.
 Wähle ein Herz ❤️ als Symbol.
 ## 
 Das Herz soll nur kurz erscheinen.
